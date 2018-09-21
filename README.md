@@ -1,14 +1,15 @@
 # demo_git
 
 Une demo de git
-Utile pour le perfectionnement en git
 
-Maitrise des commandes 
+Maitrise des commandes suivantes:
 git init
+git clone
 git status
 git add
 git commit 
 git push
 git pull
 git log
-git clone
+
+Pret et motiver pour travailler sur de nouveaux projets 
